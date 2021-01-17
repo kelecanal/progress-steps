@@ -12,4 +12,4 @@
    - Line should transition between bubbles
    - Borders around each individual bubble should become emboldened or highlighted
 
-#### Here is a link to the live repo! [Link](https://github.com)
+#### Here is a link to the live repo! [Link](https://kelecanal.github.io/progress-steps/)
